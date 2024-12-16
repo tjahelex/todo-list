@@ -1,0 +1,10 @@
+[
+    {
+        "task": "Mandi",
+        "completed": true
+    },
+    {
+        "task": "Tidur",
+        "completed": false
+    }
+]
